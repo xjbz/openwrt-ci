@@ -1,4 +1,4 @@
-name: IPQ60XX-24.10-AX1800
+name: IPQ60XX-SNAPSHOT-AX1800
 
 on:
   workflow_dispatch:
